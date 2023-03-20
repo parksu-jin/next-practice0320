@@ -1,0 +1,212 @@
+[
+  {
+    "id": 0,
+    "name": "Aneirin",
+    "slug": "Aneirin",
+    "bio": "아네이린은 화씨 -300도/-184.4444444도보다 추운 지역에 대한 특별한 호기심을 가진 우주 전역의 미행성에서 추운 기후에 대한 최고의 전문가입니다(따라서 벙어리장갑 뜨개질에 대한 개인적 관심이 깊습니다). 광범위하게 여행한 아네이린은 대우주의 모든 구석에서 독특한 엽서를 수집하고, 받고, 보내는 것을 즐깁니다.",
+    "원본": "자콘 II",
+    "eyes": 2,
+    "hobby": "뜨개질",
+    "ambulation": "걷기, 건너뛰기",
+    "job_title": "한랭 기후 분석가",
+    "dream_job_title": "개인 섬 관리인",
+    "singing_voice": "알토",
+    "favorites": {
+      "food": "아스파라거스",
+      "music_genre": "힙합, 클래식 록",
+      "book": "야생의 부름 by 잭 런던",
+      "footwear": "카우보이 부츠"
+    }
+  },
+  {
+    "id": 1,
+    "name": "Celestia",
+    "slug": "Celestia",
+    "약력": "이동성 엔지니어인 Celestia Dristi는 개인과 회사가 기술 및 시스템의 개인 및 직업적 민첩성과 성장을 개선하도록 돕습니다. 요구 사항을 기능으로 변환하고 구현하는 전문가인 Celestia Dristi는 문제를 해결하고 도움을 주는 독특한 성향을 가지고 있습니다. 향후 문제를 방지하기 위해.",
+    "origin": "크라청크",
+    "eyes": 1,
+    "hobby": "조경",
+    "ambulation": "롤링",
+    "job_title": "모빌리티 엔지니어",
+    "dream_job_title": "마임",
+    "singing_voice": "소프라노",
+    "favorites": {
+      "food": "아이스크림 케이크",
+      "music_genre": "레게",
+      "도서": "찰스 디킨스의 두 도시 이야기",
+      "footwear": "해당 없음"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Charmaine",
+    "slug": "Charmaine",
+    "bio": "Charmaine은 모든 사회와 행성의 화석을 좋아하고 그들이 이전 시대에 대해 이야기하는 이야기를 모으는 데 도움을 줍니다. 대학에서 수영 예술을 부전공하고 고생물학 공부를 마친 후 Charmaine은 즉시 현재 작업으로 전환했습니다. 유명한 Pleoria의 발굴.",
+    "origin": "Graykor 5",
+    "eyes": 2,
+    "hobby": "서예",
+    "ambulation": "수영, 걷기",
+    "job_title": "고생물학자",
+    "dream_job_title": "올림픽 수구 선수",
+    "singing_voice": "테너",
+    "favorites": {
+      "food": "초콜릿으로 덮인 귀뚜라미",
+      "music_genre": "재즈",
+      "book": "노란 태양의 절반 by Chimamanda Ngozi Adichie",
+      "footwear": "슬리퍼 커버"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Emmyloo",
+    "slug": "Emmyloo",
+    "bio": "사전에서 사전 편찬을 찾으면 Emmyloo의 사진을 볼 수 있습니다. 그녀는 사전 편찬에 대한 그녀의 헌신이 그녀가 처음으로 완전한 문장을 말했던 2살 때부터 시작되었다고 주장합니다. Fluent in 94 Emmyloo는 단어 간의 관계와 의미의 뉘앙스 및 다른 단어와의 관계를 분석하는 데 도움이 됩니다.",
+    "origin": "마에도라",
+    "eyes": 2,
+    "hobby": "과학적 유리 불기",
+    "ambulation": "롤링",
+    "job_title": "행성간 이론 사전 편집자",
+    "dream_job_title": "행성간 이론 사전 편집자",
+    "singing_voice": "소프라노",
+    "favorites": {
+      "food": "아보카도 토스트",
+      "music_genre": "바로크, 클래식, 키좀바",
+      "book": "스티븐 호킹의 시간의 간략한 역사",
+      "footwear": "해당 없음"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Gill",
+    "slug": "Gill",
+    "bio": "Gill은 수생 기반 미행성의 지하 저수지를 전문으로 하는 수문학자로서 가족의 전통을 여러 세대에 걸쳐 이어오고 있습니다. 주목할 만한 것은 강어귀와 세노테에서 생명체의 적응과 축적에 대한 그의 혁신적인 연구입니다. 그는 강사로 자원합니다. 어린 양서류에게 고급 수영과 걷기를 제공합니다.",
+    "origin": "양서류",
+    "eyes": 2,
+    "hobby": "아쿠아스케이핑",
+    "ambulation": "수영, 걷기",
+    "job_title": "선임 수문학자",
+    "dream_job_title": "노인 프리 플로터",
+    "singing_voice": "베이스",
+    "favorites": {
+      "food": "가재 에투페",
+      "music_genre": "펑크 록",
+      "book": "Delia Owens의 가재들이 노래하는 곳",
+      "footwear": "슬리퍼 커버, 없음"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ichabod",
+    "slug": "Ichabod",
+    "bio": "운영 감독자 Ichabod는 질서와 기능의 완벽함을 고수하는 데 흔들림이 없습니다. Ichabod는 산만한 영향에 대해 타고난 냉담함을 사용하여 정확한 호버보드 기동성을 성공적으로 가르칠 수 있다는 장점을 가지고 여러 팀을 운영상의 차별화로 이끌었습니다.",
+    "origin": "크라청크",
+    "eyes": 3,
+    "hobby": "피아노",
+    "ambulation": "호버보드",
+    "job_title": "작업 감독자",
+    "dream_job_title": "노인 프리 플로터",
+    "singing_voice": "팔세토",
+    "favorites": {
+      "food": "짜는 요거트",
+      "music_genre": "블루스, 일렉트로니카",
+      "도서": "Atomic Habits: 좋은 습관을 만들고 나쁜 습관을 없애는 쉽고 입증된 방법, James Clear",
+      "footwear": "비건 양가죽 부츠"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Laverne",
+    "slug": "Laverne",
+    "bio": "Laverne은 Quantumnus University에서 이론 물리학 학위를 받았습니다. 위대한 이론 물리학자인 Bob을 위해 인턴으로 일한 Laverne은 Quantumnus U의 이론 물리학 코디네이터가 되기 위해 서로 다른 측정 가능한 양 간의 관계를 이해하는 데 타고난 적성을 추구했습니다.",
+    "origin": "아이스론치 메이저",
+    "eyes": 2,
+    "hobby": "다운힐 스키",
+    "ambulation": "수영, 걷기",
+    "job_title": "이론 물리학 코디네이터",
+    "dream_job_title": "필라테스 강사",
+    "singing_voice": "알토",
+    "favorites": {
+      "food": "s'mores",
+      "music_genre": "블루그래스",
+      "book": "Becoming by Michelle Obama",
+      "footwear": "없음"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Mindigo",
+    "slug": "Mindigo",
+    "bio": "운송 기술자 Mindigo는 고급 여행 및 상품 운송 분야에서 지칠 줄 모르는 작업으로 인해 MindiGoGo라는 별명을 얻었습니다. Amethystopia의 고급 기술 대학에서 운송 학위를 취득한 후 Mindigo는 화물 운송업자에서 운송업자로 회사 직급을 빠르게 올렸습니다. savant. 그녀는 모두가 탐내는 대통령 표창장을 받았습니다.",
+    "origin": "아메시스토피아",
+    "eyes": 2,
+    "hobby": "빈티지 캠핑카 복원",
+    "ambulation": "롤러 스케이트",
+    "job_title": "교통 기술자",
+    "dream_job_title": "레이저 태그 심판",
+    "singing_voice": "알토",
+    "favorites": {
+      "food": "콜리플라워 캐서롤",
+      "music_genre": "디스코",
+      "book": "제시카 브루더의 노매드랜드",
+      "footwear": "롤러 스케이트"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Nalda",
+    "slug": "Nalda",
+    "bio": "독학자 날다는 2288년에 비영리 IULD(Interplanetary Understandingers and Lie Detectors, LLC)를 설립하면서 마인드 리더 및 보편적 번역가로 일하기 시작했습니다. IULD를 통해 Nalda는 이전에 반목하던 여러 행성 정부가 일시 중지하도록 성공적으로 도왔습니다. , 그들의 유사점을 인식하고 궁극적으로 다른 사람이 실제로 말한 내용을 이해하여 지속적인 평화와 협력을 달성하도록 돕습니다.",
+    "origin": "아이스론치 마이너",
+    "eyes": 2,
+    "hobby": "피로그래피",
+    "ambulation": "걷기, 발끝으로 걷기",
+    "job_title": "마인드 리더 및 범용 번역기",
+    "dream_job_title": "시인",
+    "singing_voice": "알토",
+    "favorites": {
+      "food": "잭프루트 프리터",
+      "music_genre": "펑크 록, 90년대 팝",
+      "book": "가정부와 교수 오가와 요코",
+      "footwear": "푹신한 슬리퍼"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Narf",
+    "slug": "Narf",
+    "bio": "Narf the Fourth(친구들에게는 'Norf'로 알려짐)는 Saucer & Rocket, Inc.에서 천문학적 우주선 액세서리의 제조를 감독합니다. Norf는 여러 낮은 품질 보증 전문가를 관리하는 것을 포함하여 생산 품질의 모든 측면을 주시합니다. 제트팩 경주, 보디빌딩, 자원 봉사 야구 코치 등의 관심사가 있습니다. 친구들은 Norf가 공을 계속 주시하세요!라고 외치는 소리가 들리지 않는다면 여름이 아니라고 말합니다.",
+    "origin": "크라청크",
+    "eyes": 1,
+    "hobby": "정원 가꾸기",
+    "ambulation": "걷기, 제트팩",
+    "job_title": "품질 보증 전문가",
+    "dream_job_title": "손 모델",
+    "singing_voice": "바리톤",
+    "favorites": {
+      "food": "칼조네",
+      "music_genre": "클래식 컨트리",
+      "book": "마크 트웨인의 톰 소여의 모험",
+      "footwear": "나막신, 부츠"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Portman",
+    "slug": "Portman",
+    "bio": "야생 동물이든 사랑하는 애완 동물이든 포트만 박사만큼 동물, 생물, 해충, 야수를 사랑하는 사람은 없습니다. 은하계 전역에서 초지구 수의사 팀을 이끌고 있는 포트만 박사는 질병에 대한 많은 해독제를 발견했습니다. 다른 미행성에서도 성공적으로 사용할 수 있는 미행성의 동물 질병이며, 우주 전체에 이러한 치료법과 치료법의 교차 배포를 확장하기 위해 노력하고 있습니다.",
+    "원본": "프로보시스크",
+    "eyes": 2,
+    "hobby": "저글링",
+    "ambulation": "걷기",
+    "job_title": "초지구 수의사",
+    "dream_job_title": "초지구 수의사 교수",
+    "singing_voice": "바리톤과 가성",
+    "favorites": {
+      "food": "레몬베리 사바린",
+      "music_genre": "제이팝",
+      "book": "Margery Williams와 William Nicholson(일러스트레이터)의 The Velveteen Rabbit",
+      "footwear": "고무 장화"
+    }
+  }
+  
+]

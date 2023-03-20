@@ -1,0 +1,26 @@
+a{
+  text-decoration: none;
+  color: #333;
+}
+#btn{
+  border: 1px solid black;
+  width: 200px;
+  text-align: center;
+}
+#btn:hover{
+  box-shadow: 1px 1px 4px #666;
+  cursor: pointer;
+  text-shadow: 1px 1px 3px #666;
+}
+#mm{
+  width: 600px;
+  line-height: 30px;
+}
+#mm>h1{
+  border-bottom: 2px solid black;
+  width: 150px;
+  padding-bottom: 15px;
+}
+#mm>p{
+  margin-bottom: 30px;
+}
